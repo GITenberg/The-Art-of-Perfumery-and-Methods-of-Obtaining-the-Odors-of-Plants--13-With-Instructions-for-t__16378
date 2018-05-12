@@ -1,0 +1,35 @@
+_repo: The-Art-of-Perfumery-and-Methods-of-Obtaining-the-Odors-of-Plants--13-With-Instructions-for-t__16378
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Piesse, G. W. Septimus (George William Septimus)
+    aliases:
+    - Piesse, S. (Septimus)
+    - Piesse, Septimus
+    - Piesse, George William Septimus
+    birthdate: 1820
+    deathdate: 1882
+    gutenberg_agent_id: '6666'
+    url: http://www.gutenberg.org/2009/agents/6666
+description: ''
+gutenberg_bookshelf: Technology
+gutenberg_issued: '2005-07-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16378'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TP'
+- !lcsh 'Cosmetics'
+- !lcsh 'Perfumes'
+title: "The Art of Perfumery, and Methods of Obtaining the Odors of Plants\r\nWith\
+  \ Instructions for the Manufacture of Perfumes for the Handkerchief, Scented Powders,\
+  \ Odorous Vinegars, Dentifrices, Pomatums, Cosmetics, Perfumed Soap, Etc., to which\
+  \ is Added an Appendix on Preparing Artificial Fruit-Essences, Etc."
+url: http://www.gutenberg.org/ebooks/16378
