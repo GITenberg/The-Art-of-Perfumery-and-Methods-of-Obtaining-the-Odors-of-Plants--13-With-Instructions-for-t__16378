@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '6666'
     url: http://www.gutenberg.org/2009/agents/6666
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16378#The-Art-of-Perfumery-and-Methods-of-Obtaining-the-Odors-of-Plants--13-With-Instructions-for-t_
 gutenberg_bookshelf: Technology
 gutenberg_issued: '2005-07-28'
 gutenberg_type: Text
